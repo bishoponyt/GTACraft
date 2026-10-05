@@ -6,6 +6,8 @@ GTACraft runs a separate Minecraft Java profile alongside GTA V Legacy and compo
 
 The v0.1.2 passthrough is working. Known issues are listed under [Compatibility and safety](#compatibility-and-safety).
 
+DISCLAIMER: This mod uses AI-assisted tools to develop and maintain. This is not affiliated with Rockstar Games, Mojang, Microsoft, or any other companies related to the games.
+
 ## Screenshots
 
 Screenshots are coming soon. This section will be updated when captures are available.
